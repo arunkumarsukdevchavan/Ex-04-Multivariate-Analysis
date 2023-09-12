@@ -138,6 +138,7 @@ corr = dt.corr()
 sns.heatmap(corr,annot=True)
 ```
 <img width="730" alt="image" src="https://github.com/TejaswiniGugananthan/Ex-04-Multivariate-Analysis/assets/121222763/f51e5d9e-6a2e-4400-939d-57e64151e2b5">
+
 ```
 sns.pairplot(dt)
 ```
